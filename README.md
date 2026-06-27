@@ -27,5 +27,4 @@
 <a href="https://github.com/Crazy-Scamp/Finding-Unknown-Sources"><img src="https://img.shields.io/badge/Unknown-Sources-0366d6?style=for-the-badge&logo=github&logoColor=white&labelColor=dfb317" alt="Unknown"></a>
 
 ---
-
-
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Crazy-Scamp%2Crazy-Scamps AIO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
