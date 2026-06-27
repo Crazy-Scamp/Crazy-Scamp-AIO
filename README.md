@@ -1,5 +1,4 @@
-# Crazy-Scamp-AIO
-Everything you need to start Sideloading
+**Everything you need to start Sideloading**
 
 ---
 
