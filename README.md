@@ -14,7 +14,7 @@ https://img.shields.io/badge/Getting-Started-0366d6?style=for-the-badge&logo=git
 **This is where you get your games from**
 
 **VR CYBERDECK**
-https://img.shields.io/badge/VR-CyberDeck-44cc11?style=for-the-badge&logo=github&logoColor=white&labelColor=007ec6
+
 
 
 **ROOKIE**
