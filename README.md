@@ -1,4 +1,4 @@
-<img width="925" height="1057" alt="1782577158184" src="https://github.com/user-attachments/assets/b51c0e90-12ad-40f8-9f0a-74a51f386de5" />
+<img width="325" height="657" alt="1782577158184" src="https://github.com/user-attachments/assets/b51c0e90-12ad-40f8-9f0a-74a51f386de5" />
 **✅️ Everything you need to Start Sideloading**
 
 ---
