@@ -27,4 +27,4 @@
 <a href="https://github.com/Crazy-Scamp/Finding-Unknown-Sources"><img src="https://img.shields.io/badge/Unknown-Sources-0366d6?style=for-the-badge&logo=github&logoColor=white&labelColor=dfb317" alt="Unknown"></a>
 
 ---
-<a href="https://hits.sh/github.com/Crazy-Scamp/Crazy-Scamp-AIO/"><img alt="Hits" src="https://hits.sh/github.com/Crazy-Scamp/Crazy-Scamp-AIO.svg?style=flat-square&label=Total%20Vistors&labelColor=fe7d37"/></a>
+[![Hits](https://hits.sh/github.com/Crazy-Scamp/Crazy-Scamp-AIO.svg?style=flat-square&label=Total%20Visitors&color=555555&logo=github)](https://hits.sh/github.com/Crazy-Scamp/Crazy-Scamp-AIO/)
