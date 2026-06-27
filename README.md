@@ -1,4 +1,4 @@
-** ✅️ Everything you need to Start Sideloading**
+**✅️ Everything you need to Start Sideloading**
 
 ---
 
