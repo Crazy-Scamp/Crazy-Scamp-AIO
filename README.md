@@ -22,7 +22,7 @@
 ---
 
 ## ❓️ Finding Unknown Sources
-**Once you have downloaded your ganes this guide will show how to find them**
+**Once you have downloaded your games this guide will show how to find them**
 
 <a href="https://github.com/Crazy-Scamp/Finding-Unknown-Sources"><img src="https://img.shields.io/badge/Unknown-Sources-0366d6?style=for-the-badge&logo=github&logoColor=white&labelColor=dfb317" alt="Unknown"></a>
 
