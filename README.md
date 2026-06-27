@@ -13,12 +13,8 @@ Everything you need to start Sideloading
 ## The Software
 **This is where you get your games from**
 
-**VR CYBERDECK**
-
 <a href="https://github.com/Crazy-Scamp/VR-CyberDeck-Setup"><img src="https://img.shields.io/badge/VR-CyberDeck-44cc11?style=for-the-badge&logo=github&logoColor=white&labelColor=007ec6" alt="VR"></a>
 
-
-**ROOKIE**
 
 <a href="https://github.com/Crazy-Scamp/Rookie-Setup-Guide"><img src="https://img.shields.io/badge/ROOKIE-SideLoader-44cc11?style=for-the-badge&logo=github&logoColor=white&labelColor=007ec6" alt="ROOKIE"></a>
 
